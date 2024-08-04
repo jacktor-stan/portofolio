@@ -54,7 +54,7 @@ const PortofolioPage = () => {
             <div className="w-full px-4 lg:w-1/2">
               <p className="text-medium font-medium text-secondary md:text-lg">
                 Sebagian project tertunda bahkan gagal dikarenakan waktu luang saya yang sangat kurang, 
-                tetapi beberapa project masih dikembangkan terus hingga saat ini, project yang ditinggalkan ditendai dengan "Abandoned"
+                tetapi beberapa project masih dikembangkan terus hingga saat ini, project yang ditinggalkan ditandai dengan "Abandoned"
               </p>
             </div>
           </div>
@@ -132,6 +132,12 @@ const PortofolioPage = () => {
            height="90"
            width="90"
            src="/images/jacktor.gif" />
+           </div>
+           
+           <div class="flex justify-center items-center pt-6">
+           <p>
+           Itu saja yang ditampilkan untuk saat ini, list akan bertambah terus nanti
+           </p>
            </div>
           
         </div>
