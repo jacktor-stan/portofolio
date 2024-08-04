@@ -53,7 +53,7 @@ const HomePage = () => {
               </Link>
 
               <Link
-                href="https://drive.google.com/file/d/1WkB0e_fV-y7KgKbzyJv5P9_HHRUq5Rm_/view?usp=sharing"
+                href="https://drive.google.com/file/d/1K27ogGwJ07oq6FaEj0Zm5VCB32SgG0EL/view?usp=sharing"
                 target="_blank"
                 className="ml-2 md:ml-5 rounded-full bg-dark text-white dark:bg-white dark:text-dark px-5 py-2.5 text-base font-semibold transition duration-300 ease-in-out hover:opacity-80 hover:shadow-lg md:px-8 md:py-3"
               >
